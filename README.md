@@ -78,12 +78,12 @@
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&theme=transparent&show_icons=true&count_private=true&icon_color=38C2FF&text_color=ffffff&title_color=38C2FF" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jossuetri&theme=transparent&show_icons=true&count_private=true&icon_color=38C2FF&text_color=ffffff&title_color=38C2FF" />
   <br><br>
-  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF" /> 
+  <img title="Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jossuetri&theme=transparent&hide_border=true&ring=38C2FF&fire=38C2FF&currStreakLabel=38C2FF" /> 
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&theme=transparent&hide_border=true&no-bg=true&no-frame=true&langs_count=8&text_color=ffffff&title_color=38C2FF"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jossuetri&theme=transparent&hide_border=true&no-bg=true&no-frame=true&langs_count=8&text_color=ffffff&title_color=38C2FF"/>
 </td>
 </tr>
 </table>
